@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+# BBrowser
 
-You can use the [editor on GitHub](https://github.com/gpielson/BBrowser/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Simple webbrowser based on Chromium engine.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Download
 
-### Markdown
+Newest version: BBrowser beta v3
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[x86](http://gabrysp.bplaced.net/Projekty_skompilowane/BBrowser32_beta3.rar)
+[x64](http://gabrysp.bplaced.net/Projekty_skompilowane/BBrowser64_beta3.rar)
 
-```markdown
-Syntax highlighted code block
+### Contact
 
-# Header 1
-## Header 2
-### Header 3
+E-mail: gabrynio15@gmail.com
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gpielson/BBrowser/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Website: gabrysp.cba.pl

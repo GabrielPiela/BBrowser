@@ -13,4 +13,4 @@ Newest version: BBrowser beta v3
 
 E-mail: gabrynio15@gmail.com
 
-Website: gabrysp.cba.pl
+Website: http://gabrysp.cba.pl/

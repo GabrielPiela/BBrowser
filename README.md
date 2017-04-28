@@ -1,4 +1,4 @@
-# BBrowser
+ # BBrowser
 
 
 ## Simple webbrowser based on Chromium engine.
@@ -14,7 +14,7 @@ Newest version: BBrowser beta v3
 
 [x64](http://gabrysp.bplaced.net/Projekty_skompilowane/BBrowser64_beta3.rar)
 
-**Note** This pre-release version of BBrowser, some functions may be not working yet. 
+**Note** This is pre-release version of BBrowser, some functions may be not working yet. 
 
 
 ### Todo
